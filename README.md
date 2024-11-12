@@ -1,1 +1,1 @@
-# CodeAlpha-Attendance-Management-System
+# CodeAlpha-AttendanceManagementSystem
